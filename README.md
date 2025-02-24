@@ -1,5 +1,7 @@
-This is my note for machine learining courses and projects i had 
+This is my note for machine learining courses and projects i had
 
-starts with 
-1- Regression
-  1-1 simple-linear regression
+starts with
+data understanding
+data visualization
+data cleansing
+Regression
